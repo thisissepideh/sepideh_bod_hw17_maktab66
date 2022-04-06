@@ -1,0 +1,13 @@
+.all-items{
+  background-color: rgba(0, 217, 255, 0.678);
+  padding-left:10px ;
+  padding-right:10px ;
+  width:15vw;
+  
+  }
+  .selected-items{
+    background-color: rgba(227, 96, 96, 0.999);
+    padding-left:10px ;
+    padding-right:10px ;
+    width:15vw;
+  }
